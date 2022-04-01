@@ -1,0 +1,12 @@
+.banner-fixed {
+	height: 100vh;
+    background-image: url("../images/snkkk.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

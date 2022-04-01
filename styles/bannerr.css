@@ -1,0 +1,26 @@
+.bannerr {
+    height: 100vh;
+    background-image: url("../images/s1.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+       }
+
+       .bannerr {
+    height: 100vh;
+    background-image: url("../images/s2.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    

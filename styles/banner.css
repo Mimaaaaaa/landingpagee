@@ -1,0 +1,37 @@
+.banner{
+    height: 100vh;
+    background-image: url("../images/snkkk.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display:  flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.banner h1, .banner h2 {
+    text-shadow:1px 1px 1px black;
+    @media (min-width: 576px) 
+    background-position : center }
+
+.banner-fixed {
+    height: 100vh;
+    background-image: url("../images/4k.png");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center
+
+    .banner-fixed {
+        font-family: 'Roboto Condensed', sans-serif;}
+        font-size: 80%;
+
+    }
+
+        
+
